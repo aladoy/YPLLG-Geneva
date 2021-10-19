@@ -1,0 +1,12 @@
+manuscript/
+processed_data/gender_api_results/
+processed_data/final_dataset.csv
+processed_data/dataset_used_with_covariates.gpkg
+processed_data/final_dataset_spatial_analysis.gpkg
+processed_data/*.p
+data/death_notices/Datas_csv_excel.xlsx
+requests/
+results/
+src/.Rproj.user/
+src/.Rhistory
+.Rproj.user
